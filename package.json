@@ -1,0 +1,23 @@
+{
+  "name": "UBQTi_00",
+  "version": "1.0.0",
+  "description": "Este es un repositorio para una aplicacion de prueba en node.js. + Express framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoIsaacHerrera/UBQTi_00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoIsaacHerrera/UBQTi_00/issues"
+  },
+  "homepage": "https://github.com/RodrigoIsaacHerrera/UBQTi_00#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
